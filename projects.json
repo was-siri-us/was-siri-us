@@ -1,7 +1,7 @@
 {
     "AutomatedReportGenerationUsingConditionedTransformers" : {
         "Name" : "Automated Report Generation UsingTransformers",
-        "Description" : "Automatic Report generation Model leveraging Transformers (DistillGPT-2)featuring Multi-headed Cross Attention, with a React front end and MongoDB integration, deployed on AWS EC2,.",
+        "Description" : "Automatic Report generation Model leveraging Transformers     (DistillGPT-2)featuring Multi-headed Cross Attention, with a React front end and MongoDB integration, deployed on AWS EC2.",
         "Tags" : ["Python","JavaScript", "React","Express","Machine Learning","AWS"],
         "Href" : "https://github.com/was-siri-us/Automated-Report-Generation-using-Transformers",
         "Thumbnail" : "thumbnails/ReportGen.png"
