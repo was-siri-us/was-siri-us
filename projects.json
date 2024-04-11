@@ -6,4 +6,18 @@
         "Href" : "https://github.com/was-siri-us/Single-Player-RPG-Game-using-CPP-in-Unreal-Engine",
         "Thumbnail" : "thumbnails/Aurora.png"
     },
+    "AutomatedReportGenerationUsingConditionedTransformers" : {
+        "Name" : "Automated Report Generation UsingTransformers",
+        "Description" : "Automatic Report generation Model leveraging Transformers     (DistillGPT-2)featuring Multi-headed Cross Attention, with a React front end and MongoDB integration, deployed on AWS EC2.",
+        "Tags" : ["Python","JavaScript", "React","Express","Machine Learning","AWS"],
+        "Href" : "https://github.com/was-siri-us/Automated-Report-Generation-using-Transformers",
+        "Thumbnail" : "thumbnails/ReportGen.png"
+    },
+    "SimonGame" : {
+        "Name" : "Simon Game",
+        "Description" : "Classic Simon Game brought to life with jQuery and JavaScript challenging your memory and reflexes with vibrant colors and sounds.",
+        "Tags" : ["JavaScript","jQuery"],
+        "Href" : "projects/SimonGame/simongame.min.html",
+        "Thumbnail" : "thumbnails/simon.png"
+    }
 }
