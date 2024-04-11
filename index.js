@@ -1,7 +1,7 @@
 
 
 $(document).ready(function(){
-    $.getJSON("project.json", function (data) {
+    $.getJSON("projects.json", function (data) {
             const myGridContainer = $("#myProjectsGridContainer");
             $.each(data,function(key,project){
                 const card = $('<div>').addClass("myProjectCard");
