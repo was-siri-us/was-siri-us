@@ -6,13 +6,6 @@
         "Href" : "https://github.com/was-siri-us/Automated-Report-Generation-using-Transformers",
         "Thumbnail" : "thumbnails/ReportGen.png"
     },
-     "ProjectAurora" : {
-        "Name" : "Project Aurora",
-        "Description" : "A single-player Third Person perspective RPG developed using C++ and blueprints in Unreal Engine 4/5",
-        "Tags" : ["C++","Blueprints", "Unreal Engine 4","Unreal Engine 5","SQL"],
-        "Href" : "https://github.com/was-siri-us/Single-Player-RPG-Game-using-CPP-in-Unreal-Engine",
-        "Thumbnail" : "thumbnails/Aurora.png"
-    },
     "SimonGame" : {
         "Name" : "Simon Game",
         "Description" : "Classic Simon Game brought to life with jQuery and JavaScript challenging your memory and reflexes with vibrant colors and sounds.",
